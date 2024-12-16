@@ -1,0 +1,18 @@
+
+
+.ru {
+
+}
+
+.layout-royal {
+}
+
+.layout {
+  clear: both;
+  height: auto;
+  min-height: 100vh;
+  min-width: 1096px;
+  position: relative;
+  z-index: 2;
+}
+
